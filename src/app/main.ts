@@ -5,3 +5,4 @@ console.log("aaaa")
 //TODO
 platformBrowserDynamic().bootstrapModule(AppModule);
 //TODO 
+console.log("ttoo")
